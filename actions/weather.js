@@ -20,7 +20,7 @@ export const refreshWeather = (lat, lon) => async dispatch => {
     const url = buildWeatherUrl(lat, lon);
     const timestamp = new Date();
 
-    let { data } = await axios.get(url, { timeout: 10000 });
+    let { data } = await axios.get(url);
     dispatch({ type: REFRESH_WEATHER, data, timestamp });
   } catch (e) {
     dispatch({ type: ERROR, payload: e.message });
