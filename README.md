@@ -13,6 +13,7 @@ The screen should be refreshed when updated data is received.
 - To run your app on iOS:
    ```sh
    cd currentWeather
+   npm install
    react-native run-ios
    ```
    
@@ -28,6 +29,7 @@ The screen should be refreshed when updated data is received.
 
    ```sh
    cd currentWeather
+   npm install
    ```
    Have an Android emulator running (quickest way to get started), or a device connected
    ```sh
