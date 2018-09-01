@@ -21,6 +21,11 @@ The screen should be refreshed when updated data is received.
    Open ios/example.xcodeproj in Xcode
    Hit the Run button
 - To run your app on Android:
+
+   Simple open link and download application: https://i.diawi.com/ZfZc65
+   
+   or
+
    ```sh
    cd currentWeather
    ```
