@@ -124,6 +124,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "currentWeatherApp"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
