@@ -11,7 +11,7 @@ The screen should be refreshed when updated data is received.
 
 ### Installation:
 - To run your app on iOS:
-   cd /Users/che/Desktop/Projects/example
+   cd currentWeather
    react-native run-ios
    
     or
@@ -19,6 +19,6 @@ The screen should be refreshed when updated data is received.
    Open ios/example.xcodeproj in Xcode
    Hit the Run button
 - To run your app on Android:
-   cd /Users/che/Desktop/Projects/example
+   cd currentWeather
    Have an Android emulator running (quickest way to get started), or a device connected
    react-native run-android
