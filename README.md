@@ -10,6 +10,10 @@ The screen should be refreshed when updated data is received.
 3. The app should run on both Android and iOS
 
 ### Installation:
+```sh
+git clone https://github.com/Dmitrylolo/currentWeather.git
+```
+
 - To run your app on iOS:
    ```sh
    cd currentWeather
