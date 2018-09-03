@@ -23,7 +23,7 @@ git clone https://github.com/Dmitrylolo/currentWeather.git
    
     or
     
-   Open ios/example.xcodeproj in Xcode
+   Open ios/currentWeather.xcodeproj in Xcode
    Hit the Run button
 - To run your app on Android:
 
